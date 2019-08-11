@@ -1,1 +1,10 @@
-
+---
+layout: post
+title: Modelling emission from UV to FIR
+date: 2019-08-11
+description: FIRE-2
+img: FIRE-2.jpg # Add image post (optional)
+tags: FIRE-2
+author: 
+---
+Recent paper: http://adsabs.harvard.edu/abs/2019MNRAS.488.1779C
