@@ -7,4 +7,4 @@ img: FIRE-2.pdf # Add image post (optional)
 tags: FIRE-2
 author: 
 ---
-Recent paper: http://adsabs.harvard.edu/abs/2019MNRAS.488.1779C
+We recently published a paper on modelling the multi-wavelength emission from extremely well-resolved galaxies in the FIRE-2 simulations: http://adsabs.harvard.edu/abs/2019MNRAS.488.1779C
