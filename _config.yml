@@ -1,7 +1,7 @@
 title: Rachel Cochrane
 email: rcoch@roe.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  I am an astrophysicist working on topics in galaxy evolution.
+  I have just finished my PhD in Astrophysics at the University of Edinburgh. This September I'll be starting as a postdoctoral fellow at Harvard ITC. 
 permalink: ':title/'
 baseurl: "/rcochrane" # the subpath of your site, e.g. /blog
 url: "https://rcoch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +26,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
