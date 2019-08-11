@@ -1,8 +1,8 @@
 ---
 layout: post
-title: PhD work
+title: The role of dark matter haloes in galaxy evolution
 date: 2019-08-11
-description: Short description of my PhD
+description: PhD work
 img: Edinburgh.jpg # Add image post (optional)
 tags: HiZELS
 author: 
