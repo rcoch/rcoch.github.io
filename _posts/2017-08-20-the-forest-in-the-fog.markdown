@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The forest in the fog
-date: 2017-08-20 13:32:20 +0300
+title: PhD work
+date: 2019-08-11
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
-tags: [Blog, Meditation]
-author: # Add name author (optional)
+tags: 
+author: 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
