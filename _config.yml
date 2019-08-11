@@ -12,14 +12,14 @@ about-author: Astrophysics PhD graduate, incoming postdoctoral fellow at Harvard
 
 # Contact links
 email: rcoch@roe.ac.uk
-#phone: # Add your Phone number
-#website: # Add your website, do not add http://
-#linkedin: # Add your Linkedin handle
+#phone: Add your Phone number
+#website: Add your website, do not add http://
+#linkedin: Add your Linkedin handle
 github: rcoch # Add your Github handle
 twitter: '@rachelkcochrane' # Add your Twitter handle
-#facebook: # Add your Facebook handle
-#instagram: # Add your Instagram handle
-#pinterest: # Add your Pinterest handle
+#facebook: Add your Facebook handle
+#instagram:  Add your Instagram handle
+#pinterest:  Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
@@ -31,7 +31,7 @@ discus_identifier: # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 6
+paginate: 1
 paginate_path: /page:num/
 
 # Build settings
