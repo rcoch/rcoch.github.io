@@ -3,7 +3,7 @@ layout: post
 title: Publications
 date: 2019-08-11
 description: 
-img: post-1.jpg # Add image post (optional)
+img: Stockholm.jpg # Add image post (optional)
 tags: 
 author: 
 ---
