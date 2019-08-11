@@ -31,7 +31,7 @@ discus_identifier: # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 2
+paginate: 3
 paginate_path: /page:num/
 
 # Build settings
