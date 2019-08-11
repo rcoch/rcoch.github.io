@@ -7,3 +7,12 @@ img: post-6.jpg # Add image post (optional)
 tags: 
 author: 
 ---
+I began my PhD studying the role of environment in the evolution of star-forming galaxies, using data from HiZELS, an impressive near-infrared narrow-band survey that enables the identification of H-alpha emitters at z=0.8-2.2. 
+My first couple of papers investigate the clustering of HiZELS galaxies, and relate this to their host dark matter haloes.
+
+http://adsabs.harvard.edu/abs/2017MNRAS.469.2913C
+http://adsabs.harvard.edu/abs/2018MNRAS.475.3730C
+
+I'm interested in using comparing observations with large cosmological hydrodynamical simulations such as EAGLE. In another paper, I used Principal Component Analysis to identify the key axes of correlation between halo mass, stellar mass and star-formation rate, for EAGLE galaxies at various redshifts. 
+
+http://adsabs.harvard.edu/abs/2018MNRAS.480..864C
