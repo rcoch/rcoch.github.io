@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelling emission from UV to FIR
+title: Modelling dust continuum emission
 date: 2019-08-11
 description: FIRE-2
 img: FIRE-2.jpg # Add image post (optional)
