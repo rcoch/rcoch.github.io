@@ -3,7 +3,7 @@ layout: post
 title: The role of dark matter haloes in galaxy evolution
 date: 2019-08-11
 description: PhD work
-img: Edinburgh.jpg # Add image post (optional)
+img: Edinburgh.jpg
 tags: HiZELS
 author: 
 ---
@@ -11,6 +11,7 @@ I began my PhD studying the role of environment in the evolution of star-forming
 My first couple of papers investigate the clustering of HiZELS galaxies, and relate this to their host dark matter haloes.
 
 http://adsabs.harvard.edu/abs/2017MNRAS.469.2913C
+
 http://adsabs.harvard.edu/abs/2018MNRAS.475.3730C
 
 I have also worked on comparing observations to large cosmological hydrodynamical simulations such as EAGLE. In another paper, I used Principal Component Analysis to identify the key axes of correlation between halo mass, stellar mass and star-formation rate, for EAGLE galaxies at various redshifts. 
