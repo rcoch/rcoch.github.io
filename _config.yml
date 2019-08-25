@@ -9,9 +9,11 @@ url: "https://rcoch.github.io" # the base hostname & protocol for your site, e.g
 author: Rachel Cochrane # add your name
 author-pic: boat_photo.jpg
 about-author: I am a John Harvard Distinguished Science fellow based at the Harvard-Smithsonian Center for Astrophysics. I received my PhD in 2019 from the University of Edinburgh.
-
-
-My primary interest is the evolution of galaxies over cosmic time, in particular the fuelling and quenching of star formation at intermediate redshifts (z~1-3). I work on both large scales, probing galaxy environments via clustering, and small scales, studying the spatially-resolved properties of individual galaxies. I use data from telescopes spanning many wavelengths, from the ultraviolet with the Hubble Space Telescope to radio wavelengths with LOFAR. My research blends these observations with cosmological hydrodynamical simulations such as EAGLE and FIRE. 
+My primary interest is the evolution of galaxies over cosmic time, in particular the fuelling and quenching of star formation
+at intermediate redshifts (z~1-3). I work on both large scales, probing galaxy environments via clustering, and small scales,
+studying the spatially-resolved properties of individual galaxies. I use data from telescopes spanning many wavelengths,
+from the ultraviolet with the Hubble Space Telescope to radio wavelengths with LOFAR. My research blends these observations 
+with cosmological hydrodynamical simulations such as EAGLE and FIRE. 
 
 # Contact links
 email: rcoch@roe.ac.uk
