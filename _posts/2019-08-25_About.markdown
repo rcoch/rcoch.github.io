@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-date: 2019-08-11
+date: 2019-08-25
 description: About
 img: 
 tags:
