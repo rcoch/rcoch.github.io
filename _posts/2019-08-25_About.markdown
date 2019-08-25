@@ -1,3 +1,13 @@
+---
+layout: post
+title: About me
+date: 2019-08-11
+description: About
+img: 
+tags:
+author: 
+---
+
 I am a John Harvard Distinguished Science fellow based at the Harvard-Smithsonian Center for Astrophysics. I received my PhD in 2019 from the University of Edinburgh.
 My primary interest is the evolution of galaxies over cosmic time, in particular the fuelling and quenching of star formation
 at intermediate redshifts (z~1-3). I work on both large scales, probing galaxy environments via clustering, and small scales,
